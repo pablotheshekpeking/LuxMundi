@@ -5963,7 +5963,7 @@ body .ui-tooltip {
   -o-transition: all 0.3s ease-out;
   transition: all 0.3s ease-out;
   border: 1px solid #808FE9;
-  color: var(--tp-common-white);
+  color: var(--tp-theme-primary);
 }
 .tp-hero-social a:not(:last-child) {
   margin-bottom: 8px;
@@ -5985,7 +5985,7 @@ body .ui-tooltip {
   font-weight: 700;
   margin-bottom: 20px;
   letter-spacing: -3px;
-  color: var(--tp-common-white);
+  color: var(--tp-theme-primary);
 }
 @media only screen and (min-width: 1200px) and (max-width: 1399px) {
   .tp-hero-heading-title {
@@ -6012,7 +6012,7 @@ body .ui-tooltip {
   font-size: 36px;
   font-weight: 500;
   letter-spacing: -0.72px;
-  color: var(--tp-common-white);
+  color: var(--tp-theme-primary);
 }
 @media only screen and (min-width: 768px) and (max-width: 991px) {
   .tp-hero-heading p {
